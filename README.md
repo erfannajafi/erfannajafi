@@ -11,7 +11,6 @@
  
 
 
-<img src="https://www.figma.com/file/vA3jjttDKmWatl9z0uUuT7/Untitled?node-id=409%3A2" alt="js" width ="45" height = "45" />
 
 
  
