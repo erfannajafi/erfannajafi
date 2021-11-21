@@ -12,7 +12,8 @@
 
 
   <a target="_blank" href="https://javascript.info/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"alt="JavaScript" width="45" height="45" /></a>
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+      alt="JavaScript" width="45" height="45" /></a>
 
 
  
