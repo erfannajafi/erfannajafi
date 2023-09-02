@@ -3,6 +3,11 @@
 
  
  <h3>Junior Front-End developer</h3>
+
+ repo.languages.sort_by { |_, size| size }.reverse.each do |language, size|
+  percentage = ((size / repo.size.to_f) * 100).round
+  puts "%-4s %s" % ["#{percentage}%", language]
+end
  
 
  
