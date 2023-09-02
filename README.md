@@ -1,8 +1,17 @@
-### Hi I'm Erfan Najafi from Iran , Isfahan👋
+
+<h1 align="center"> Hi I'm Erfan Najafi from Iran , Isfahan👋 </h1>
 
 
  
- <h3>Junior Back-End developer</h3>
+ <h3 align="center">Junior Back-End developer </h3>
+
+
+<p align="center">
+  <a href="https://t.me/ewrfnnj"><img
+      src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/ewrfnnj/"></a>
+  <a href="mailto:najafi.e79@gmail.com"><img
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:najafi.e79@gmail.com/"></a>
+</p>
 
 
  **<p align="center">Languages and Tools</p>**
