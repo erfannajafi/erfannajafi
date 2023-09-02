@@ -41,6 +41,9 @@
   <a target="_blank" href="https://mui.com/"><img
       src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
       alt="JavaScript" width="45" height="45" /></a>
+</p>
+
+<p align="center">
   <a target="_blank" href="https://www.figma.com/"><img
       src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
       alt="JavaScript" width="45" height="45" /></a>
@@ -50,7 +53,7 @@
   <a target="_blank" href="https://jupyter.org/"><img
       src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"
       alt="JavaScript" width="45" height="45" /></a>
-   <a target="_blank" href="https://www.python.org/"><img
+  <a target="_blank" href="https://www.python.org/"><img
       src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
       alt="JavaScript" width="45" height="45" /></a>
   <a target="_blank" href="https://pytorch.org/"><img
@@ -65,13 +68,12 @@
   <a target="_blank" href="https://trello.com/"><img
       src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg"
       alt="JavaScript" width="45" height="45" /></a>
-   <a target="_blank" href="https://code.visualstudio.com/"><img
+  <a target="_blank" href="https://code.visualstudio.com/"><img
       src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"
       alt="JavaScript" width="45" height="45" /></a>
   <a target="_blank" href="https://www.github.com/"><img
       src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"
       alt="JavaScript" width="45" height="45" /></a>
-
 </p>
 
  
