@@ -26,6 +26,12 @@
   <a target="_blank" href="https://getcomposer.org/"><img
       src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg"
       alt="JavaScript" width="45" height="45" /></a>
+  <a target="_blank" href="http://html5.com/"><img
+      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
+      alt="JavaScript" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.css3.com/"><img
+      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
+      alt="JavaScript" width="45" height="45" /></a>
   <a target="_blank" href="https://www.javascript.com/"><img
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="JavaScript" width="45" height="45" /></a>
