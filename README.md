@@ -2,7 +2,7 @@
 
 
  
- <h3>Junior Front-End developer</h3>
+ <h3>Junior Back-End developer</h3>
 
 
  **<p align="center">Languages and Tools</p>**
